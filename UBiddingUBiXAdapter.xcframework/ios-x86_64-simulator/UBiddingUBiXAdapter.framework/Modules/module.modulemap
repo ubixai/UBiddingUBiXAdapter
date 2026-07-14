@@ -1,0 +1,6 @@
+framework module UBiddingUBiXAdapter {
+  umbrella header "UBiddingUBiXAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
