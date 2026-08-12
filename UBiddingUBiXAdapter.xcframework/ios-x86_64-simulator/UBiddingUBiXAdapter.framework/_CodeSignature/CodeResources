@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		N4Rdil+otG1ek18GR3tLC6Y5NIk=
+		zjwbr86BXpjLj55MJRV9NbHv2hw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -25,10 +25,6 @@
 	<dict>
 		<key>Headers/UBiddingUBiXAdapter-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UJhT8Vv15DmzCkho0qCJltgyh6U=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZLhc3eW5dbXFa+mq6p1NqBqz85956RHxkQwGEBuA6DM=
@@ -36,10 +32,6 @@
 		</dict>
 		<key>Headers/UBiddingUBiXAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gB8K0b8ftToMqa3qPlC8DR9VgQs=
-			</data>
 			<key>hash2</key>
 			<data>
 			Mp5tAu8OBKNTm0p96Urnt5tVC5NGSLgUZzCGQVoDoyY=
@@ -47,10 +39,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VYuCMWY9YM0nbVuSzsWdMrNJHuo=
-			</data>
 			<key>hash2</key>
 			<data>
 			2G/32qHtcCbuoLWAcFeIz49EFm3pcHrmjgjCTdjyv+0=
